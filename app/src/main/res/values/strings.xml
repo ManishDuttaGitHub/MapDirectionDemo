@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapDirectionDemo</string>
+    <string name="map_direction_key">AIzaSyCSfnuk5zjABJ1vfMxJ2R5YuIlwiD0GBJE</string> <!-- This key is created by spaceo.manish@gmail.com account (Used in google places api call)-->
+</resources>
